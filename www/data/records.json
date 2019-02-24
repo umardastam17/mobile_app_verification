@@ -1,0 +1,88 @@
+{
+    "data": 
+    [
+        {
+    "idnumber": "0145263",
+    "civilstatus": "Single",
+    "date": "August 05, 2015",
+    "image": "assets/imgs/avatar3.jpg",
+    "name": "Almunjir H. Dammang",
+    "gender": "Male",
+    "dob": "july 12, 1994",
+    "address": "anuling, patikul, sulu",
+    "course": "BS Computer Science",
+    "yearlevel": "Fourth Year",
+    "contactnumber": "09976986297",
+    "contactperson": "Alkabil H. Dammang",
+    "relationcontactnum": "09069658031",
+    "relationship": "Brother"
+  },
+   {
+    "idnumber": "0145265",
+    "status": "Single",
+    "date": "August 05, 2015",
+    "image": "assets/imgs/avatar5.jpg",
+    "name": "Resmalyn H. Dammang",
+    "gender": "Female",
+    "dob": "September 08, 1993",
+    "address": "Anuling, Patikul, Sulu",
+    "course": "BS Computer Science",
+    "yearlevel": "FOURTH YEAR",
+    "contactnumber": "09554099101",
+    "contactperson": "Alkabil H. Dammang",
+    "relationcontactnum": "09069658031",
+    "relationship": "Brother"
+  },
+  {
+   "idnumber": "0131060",
+   "status": "Single",
+   "date": "August 05, 2015",
+   "image": "assets/imgs/avatar4.jpg",
+   "name": "Jawada T. Jalani",
+   "gender": "Female",
+   "dob": "April 19, 1996",
+   "address": "Tulay Zone I",
+   "course": "BS Computer Science",
+   "yearlevel": "FOURTH YEAR",
+   "contactnumber": "09263168199",
+   "contactperson": "Abdulhakim A. Mabatao",
+   "relationcontactnum": "09355673099",
+   "relationship": "Husband"
+ },
+ {
+  "idnumber": "0131061",
+  "status": "Single",
+  "date": "August 05, 2015",
+  "image": "assets/imgs/avatar2.jpg",
+  "name": "Abdulhakim A. Mabatao",
+  "gender": "Male",
+  "dob": "November 07, 1995",
+  "address": "Tulay Zone I",
+  "course": "BS Computer Science",
+  "yearlevel": "FOURTH YEAR",
+  "contactnumber": "09355673099",
+  "contactperson": "Jawada T. Jalani",
+  "relationcontactnum": "09263168199",
+  "relationship": "Wife"
+},
+{
+ "idnumber": "201918001785",
+ "status": "Single",
+ "date": "August 05, 2015",
+ "image": "assets/imgs/logo.png",
+ "name": "Barcode Sample",
+ "gender": "Male",
+ "dob": "November 07, 1995",
+ "address": "Tulay Zone I",
+ "course": "BS Computer Science",
+ "yearlevel": "FOURTH YEAR",
+ "contactnumber": "09355673099",
+ "contactperson": "Contact Person",
+ "relationcontactnum": "09263168199",
+ "relationship": "Friend"
+}
+
+
+    ]
+
+}
